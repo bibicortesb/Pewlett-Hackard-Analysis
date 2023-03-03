@@ -2,6 +2,14 @@
 
 ## Overview
 
+Pewlett Hackard is seeking to faces a situation were Baby Boomers are retiring soon so they need to make decisions based on data. The fitst thing required in this analysis is a retirement package of the employees that fill in the criteria. On the other hand, they also need to identify the position that will need to be filled in the near future. Using SQL we can manage information in readable and costumized tables for consulting. Moreover, using this queries Pewllett will be able to update the information anytime!
+
+### Resources
+
+- SQL
+- pgAdmin
+
+
 ## Results
 
 ### Retirement Titles
