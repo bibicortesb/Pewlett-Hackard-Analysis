@@ -25,9 +25,9 @@ With this table, Pewllett can identify the position that will need to be filled 
 
 ### Mentorship elegibility 
 
-![Captura de Pantalla2023-03-01 a la(s) 20 14 45](https://user-images.githubusercontent.com/114015620/222313361-2027a9f2-752c-4e1f-8c35-5045668cca81.png)
+<img width="795" alt="Screen Shot 2023-03-05 at 15 00 34" src="https://user-images.githubusercontent.com/114015620/222985695-0bea4575-84d4-4da2-9f2f-6e6ccb2af04a.png">
 
-Through this table a database was created so that it can be consulted for the mentorship program. The criteria to be met is people who were born between January 1, 1965 and December 31, 1965. 
+Through this table a database was created so that it can be consulted for the mentorship program. The criteria to be met is people who were born between January 1, 1965 and December 31, 1965. Totally 1546 candidates. 
 
 ## Summary
 
